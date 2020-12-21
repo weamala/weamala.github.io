@@ -1,0 +1,15 @@
+h1{
+    color: green;
+    font-size:42;
+    
+}
+p{
+    color:red;
+}
+body{
+    background-color:black;
+}
+#numlletas{
+    font-size:80;
+    color: blue;
+}
